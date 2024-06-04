@@ -1,6 +1,5 @@
 
 # CARREGAMENTO DAS BIBLITOECAS
-
 library(dplyr)
 library(sidrar)
 library(stringr)
