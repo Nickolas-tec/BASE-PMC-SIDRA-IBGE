@@ -1,2 +1,1 @@
-# BASE-PMC-SIDRA-IBGE
-Pesquisa Mensal do Comércio
+ETL em R da Pesquisa Mensal de Comércio, com os dados obtidos do Sistema IBGE de Recuperação Automática (SIDRA). O tratamento dos dados foi realizado para estruturar bases e suportes gráficos pela equipe de macroeconomia da GEASE da Tesouraria Global do Banco do Brasil. O projeto consiste em extrair variáveis da PMC, como, por exemplo, o volume de vendas varejista, índice com ajuste sazonal ampliado, variação interanual, entre outros. Foram realizados também cálculos de variações trimestrais e variação percentual. O ETL desses dados da PMC resultou em diversos gráficos utilizados em apresentações da equipe.
